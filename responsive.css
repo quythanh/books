@@ -1,0 +1,10 @@
+@media (max-width: 960px) {
+    .access {
+        flex-direction: column;
+    }
+
+    .content {
+        width: 95%;
+        padding: 0;
+    }
+}
